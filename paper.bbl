@@ -1,0 +1,77 @@
+\begin{thebibliography}{10}
+
+\bibitem{S4_bennett1995legacy}
+Keith Bennett.
+\newblock Legacy systems: coping with success.
+\newblock {\em Software, IEEE}, 12(1):19--23, 1995.
+
+\bibitem{S01_bennett2000software}
+Keith~H Bennett and V{\'a}clav~T Rajlich.
+\newblock Software maintenance and evolution: a roadmap.
+\newblock In {\em Proceedings of the Conference on the Future of Software
+  Engineering}, pages 73--87. ACM, 2000.
+
+\bibitem{S9_bianchi:2003}
+Alessandro Bianchi, Danilo Caivano, Vittorio Marengo, and Giuseppe Visaggio.
+\newblock Iterative reengineering of legacy systems.
+\newblock {\em Software Engineering, IEEE Transactions on}, 29(3):225--241,
+  2003.
+
+\bibitem{S3_Bisbal:1999}
+Jes{\'u}s Bisbal, Deirdre Lawless, Bing Wu, and Jane Grimson.
+\newblock Legacy information systems: Issues and directions.
+\newblock {\em IEEE software}, (5):103--111, 1999.
+
+\bibitem{S15_Comella-DordaASurvey2000}
+Santiago Comella-Dorda, Kurt Wallnau, Robert Seacord, and John Robert.
+\newblock A survey of legacy system modernization approaches.
+\newblock Technical Report CMU/SEI-2000-TN-003, Software Engineering Institute,
+  Carnegie Mellon University, Pittsburgh, PA, 2000.
+
+\bibitem{S2_erlikh:2000}
+Len Erlikh.
+\newblock Leveraging legacy system dollars for e-business.
+\newblock {\em IT professional}, 2(3):17--23, 2000.
+
+\bibitem{SOAPractice:2007}
+Nicolai~M Josuttis.
+\newblock {\em SOA in practice: the art of distributed system design}.
+\newblock " O'Reilly Media, Inc.", 2007.
+
+\bibitem{kitchenham:2004}
+Barbara Kitchenham.
+\newblock Procedures for performing systematic reviews.
+\newblock {\em Keele, UK, Keele University}, 33(2004):1--26, 2004.
+
+\bibitem{OASISRefArch:2012}
+C~Matthew MacKenzie, Ken Laskey, Francis McCabe, Peter~F Brown, Rebekah Metz,
+  and Booz~Allen Hamilton.
+\newblock Reference model for service oriented architecture 1.0.
+\newblock {\em OASIS Standard}, 12, 2012.
+
+\bibitem{Petersen:2008}
+Kai Petersen, Robert Feldt, Shahid Mujtaba, and Michael Mattsson.
+\newblock Systematic mapping studies in software engineering.
+\newblock In {\em Proceedings of the 12th International Conference on
+  Evaluation and Assessment in Software Engineering}, EASE'08, pages 68--77,
+  Swinton, UK, UK, 2008. British Computer Society.
+
+\bibitem{runeson2012case}
+Per Runeson, Martin Host, Austen Rainer, and Bjorn Regnell.
+\newblock {\em Case study research in software engineering: Guidelines and
+  examples}.
+\newblock John Wiley \& Sons, 2012.
+
+\bibitem{Seacord:2003}
+Robert~C. Seacord, Daniel Plakosh, and Grace~A. Lewis.
+\newblock {\em Modernizing Legacy Systems: Software Technologies, Engineering
+  Process and Business Practices}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2003.
+
+\bibitem{S12_WeidermanApproaches:1997}
+Nelson Weiderman, Dennis Smith, and Scott Tilley.
+\newblock Approaches to legacy system evolution.
+\newblock Technical Report CMU/SEI-97-TR-014, Software Engineering Institute,
+  Carnegie Mellon University, Pittsburgh, PA, 1997.
+
+\end{thebibliography}
